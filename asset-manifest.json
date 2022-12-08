@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.f9ae4ee1.css",
-    "main.js": "/react-gh-pages/static/js/main.2dcc3b4f.js",
-    "static/media/pelkey.jpeg": "/react-gh-pages/static/media/pelkey.0f3239100a36e48472f6.jpeg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.f9ae4ee1.css.map": "/react-gh-pages/static/css/main.f9ae4ee1.css.map",
-    "main.2dcc3b4f.js.map": "/react-gh-pages/static/js/main.2dcc3b4f.js.map"
+    "main.css": "/pelkenomics/static/css/main.f9ae4ee1.css",
+    "main.js": "/pelkenomics/static/js/main.f308d5bc.js",
+    "static/media/pelkey.jpeg": "/pelkenomics/static/media/pelkey.0f3239100a36e48472f6.jpeg",
+    "index.html": "/pelkenomics/index.html",
+    "main.f9ae4ee1.css.map": "/pelkenomics/static/css/main.f9ae4ee1.css.map",
+    "main.f308d5bc.js.map": "/pelkenomics/static/js/main.f308d5bc.js.map"
   },
   "entrypoints": [
     "static/css/main.f9ae4ee1.css",
-    "static/js/main.2dcc3b4f.js"
+    "static/js/main.f308d5bc.js"
   ]
 }
