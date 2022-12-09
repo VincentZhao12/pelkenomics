@@ -11,7 +11,7 @@ const App: FC = () => {
     return (
         <div className="App">
             <Providers>
-                <BrowserRouter>
+                <BrowserRouter basename="pelkenomics">
                     <Navbar />
                     <Routes>
                         <Route path="/" element={<Home />} />
@@ -25,3 +25,6 @@ const App: FC = () => {
 };
 
 export default App;
+function createHistory(arg0: { basename: string | undefined }) {
+    throw new Error('Function not implemented.');
+}

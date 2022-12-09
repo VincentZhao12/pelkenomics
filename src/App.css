@@ -1,3 +1,11 @@
 html {
     cursor: url('./assets/pelkey-cut.png'), auto;
 }
+
+ul > li {
+    margin-top: 10px;
+}
+
+ul > li > ul > li {
+    margin-left: 20px;
+}

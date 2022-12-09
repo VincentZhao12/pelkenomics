@@ -19,6 +19,7 @@ import {
 } from '@chakra-ui/react';
 import { HamburgerIcon, CloseIcon } from '@chakra-ui/icons';
 import { Link } from 'react-router-dom';
+import React from 'react';
 
 const Links = [
     { name: 'Classical', href: '/classical' },

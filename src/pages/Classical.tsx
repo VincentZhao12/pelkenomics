@@ -90,9 +90,9 @@ const SupplyDemand: FC<SupplyDemandProps> = () => {
                             economy is at maximum output
                         </ListItem>
                         <ListItem>
-                            Inflation
-                            <UnorderedList>
-                                <ListItem>
+                            <b>Inflation</b>
+                            <UnorderedList marginLeft={'20px'}>
+                                <ListItem marginLeft={'20px'}>
                                     Inflation is caused by an increase in
                                     aggregate demand
                                 </ListItem>
@@ -105,7 +105,7 @@ const SupplyDemand: FC<SupplyDemandProps> = () => {
                             </UnorderedList>
                         </ListItem>
                         <ListItem>
-                            Recession
+                            <b>Recession</b>
                             <UnorderedList>
                                 <ListItem>
                                     Recession is caused by an decrease in

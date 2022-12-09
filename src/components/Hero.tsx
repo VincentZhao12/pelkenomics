@@ -7,6 +7,7 @@ import {
     Text,
     useBreakpointValue,
 } from '@chakra-ui/react';
+import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import PELKEY from '../assets/pelkey.jpeg';
 
