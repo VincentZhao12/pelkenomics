@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.3b96587a.css","mappings":"AAAA,KACI,26GACJ,CAEA,MACI,eACJ,CAEA,YACI,gBACJ","sources":["App.css"],"sourcesContent":["html {\n    cursor: url('./assets/pelkey-cut.png'), auto;\n}\n\nul > li {\n    margin-top: 10px;\n}\n\nul > li > ul > li {\n    margin-left: 20px;\n}\n"],"names":[],"sourceRoot":""}

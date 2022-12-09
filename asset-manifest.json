@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/pelkenomics/static/css/main.f9ae4ee1.css",
-    "main.js": "/pelkenomics/static/js/main.df4babb2.js",
+    "main.css": "/pelkenomics/static/css/main.3b96587a.css",
+    "main.js": "/pelkenomics/static/js/main.3af5774b.js",
     "static/media/pelkey.jpeg": "/pelkenomics/static/media/pelkey.0f3239100a36e48472f6.jpeg",
     "index.html": "/pelkenomics/index.html",
-    "main.f9ae4ee1.css.map": "/pelkenomics/static/css/main.f9ae4ee1.css.map",
-    "main.df4babb2.js.map": "/pelkenomics/static/js/main.df4babb2.js.map"
+    "main.3b96587a.css.map": "/pelkenomics/static/css/main.3b96587a.css.map",
+    "main.3af5774b.js.map": "/pelkenomics/static/js/main.3af5774b.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9ae4ee1.css",
-    "static/js/main.df4babb2.js"
+    "static/css/main.3b96587a.css",
+    "static/js/main.3af5774b.js"
   ]
 }
