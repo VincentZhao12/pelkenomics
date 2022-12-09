@@ -50,7 +50,7 @@ const GDP: FC = () => {
     return (
         <HStack height={'12rem'} marginY="3rem">
             <Symbol
-                explain="Gross Debt Product is a measure of the size of an economy"
+                explain="Gross Domestic Product is a measure of the size of an economy"
                 order={1}
             >
                 GDP

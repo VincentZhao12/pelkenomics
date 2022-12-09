@@ -5,7 +5,7 @@ import Providers from './components/Providers';
 import Home from './pages/Home';
 import './App.css';
 import Classical from './pages/Classical';
-import Keynsian from './pages/Keynsian';
+import Keynsian from './pages/Keynesian';
 
 const App: FC = () => {
     return (
@@ -16,7 +16,7 @@ const App: FC = () => {
                     <Routes>
                         <Route path="/" element={<Home />} />
                         <Route path="/classical" element={<Classical />} />
-                        <Route path="/keynsian" element={<Keynsian />} />
+                        <Route path="/keynesian" element={<Keynsian />} />
                     </Routes>
                 </BrowserRouter>
             </Providers>

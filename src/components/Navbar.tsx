@@ -23,7 +23,7 @@ import React from 'react';
 
 const Links = [
     { name: 'Classical', href: '/classical' },
-    { name: 'Keynsian', href: '/keynsian' },
+    { name: 'Keynesian', href: '/keynesian' },
 ];
 
 const NavLink = ({ children, href }: { children: ReactNode; href: string }) => (
