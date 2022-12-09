@@ -76,7 +76,7 @@ export default function Hero() {
                             _hover={{
                                 bg: 'blue.500',
                             }}
-                            onClick={() => navigate('/keynsian')}
+                            onClick={() => navigate('/keynesian')}
                         >
                             Keynes
                         </Button>
